@@ -3,7 +3,7 @@
 ## Back-end code deploy on heroku server
 Live server link https://obscure-peak-86560.herokuapp.com/
 
-You can see live client site on this url: [Watch of Switzerland](https://watch-of-switzerland.web.app/).
+You can see live client site on this url: [Watch of DIALZ](https://niche-product-authentication.web.app/).
 
 ## Technology use
 ### node.js, Express.js, Cors, MongoDb 
